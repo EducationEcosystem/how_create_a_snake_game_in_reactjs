@@ -1,0 +1,3 @@
+- Speed of snake
+- Food
+- React
